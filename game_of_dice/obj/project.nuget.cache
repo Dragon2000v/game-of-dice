@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLGoy4ckob8vV9wfe8N6BArdeptlBUOHxBKbT65FaBNjXr8RDxxG+JYeWYNlt8QlfUtKqhIDOzP01Fr2yWZJ3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Прог\\С#\\game_of_dice\\game_of_dice\\game_of_dice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shmat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

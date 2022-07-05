@@ -1,0 +1,13 @@
+D:\Прог\С#\game_of_dice\game_of_dice\bin\Debug\netcoreapp3.1\game_of_dice.exe
+D:\Прог\С#\game_of_dice\game_of_dice\bin\Debug\netcoreapp3.1\game_of_dice.deps.json
+D:\Прог\С#\game_of_dice\game_of_dice\bin\Debug\netcoreapp3.1\game_of_dice.runtimeconfig.json
+D:\Прог\С#\game_of_dice\game_of_dice\bin\Debug\netcoreapp3.1\game_of_dice.runtimeconfig.dev.json
+D:\Прог\С#\game_of_dice\game_of_dice\bin\Debug\netcoreapp3.1\game_of_dice.dll
+D:\Прог\С#\game_of_dice\game_of_dice\bin\Debug\netcoreapp3.1\game_of_dice.pdb
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.csprojAssemblyReference.cache
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.AssemblyInfoInputs.cache
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.AssemblyInfo.cs
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.csproj.CoreCompileInputs.cache
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.dll
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.pdb
+D:\Прог\С#\game_of_dice\game_of_dice\obj\Debug\netcoreapp3.1\game_of_dice.genruntimeconfig.cache
